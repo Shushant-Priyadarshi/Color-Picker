@@ -1,8 +1,14 @@
-# React + Vite
+# React Color Picker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+https://github.com/Shushant-Priyadarshi/Color-Picker/assets/148479955/2b9689ac-dbc8-4884-84f5-707f83f1df22
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Overview
+This is a simple color picker web application built using ReactJS. It allows users to easily select colors for their projects.
+
+## Features
+- Select colors from a predefined palette
+- Customize colors using RGB sliders
+- Copy color codes to clipboard with a single click
+- Simple and intuitive user interface
